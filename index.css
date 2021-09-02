@@ -13,10 +13,6 @@ body.container-image {
     background-repeat: no-repeat;
 }
 
-#header{
-    display: inline;
-}
-
 #logo{
     margin-top: 3%;
     margin-left: 3%;
@@ -63,7 +59,6 @@ body.container-image {
     
  }
 button{
-    vertical-align: center;
     text-align: center;
     color: white;
     background-color: rgba(228, 42, 42, 0.842);
